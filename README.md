@@ -77,10 +77,6 @@ A sample comparison of actual versus predicted charges on the test set.
 | 38746.36 | 31745.51 |
 | 4463.21 | 8962.39 |
 
-## Screenshots
-
-Screenshots of the GitHub repository, this README, the deployed app and a working prediction are included as part of the project submission.
-
 ## Technologies Used
 
 * Python
